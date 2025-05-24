@@ -1,0 +1,294 @@
+.body{
+     background-color: antiquewhite;
+     background-image: url(img_3_1726754515174.jpg);
+     margin: 0%;
+     background-attachment: fixed;
+     
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     animation: slider 20s linear  infinite;
+    
+
+}
+h1{
+    font-size: 150px;
+    text-align: left;
+    color: yellow;
+     margin-top: 50%;
+   
+}
+div{
+    nav {
+        ul{
+            background-color: rgb(226, 43, 195);
+             padding: 1%;
+            
+            list-style: none;
+            font-size: 30px;
+            text-decoration: none;
+               margin-top: 1%;
+              display: flex;
+               flex-wrap: wrap;
+                     gap: 2.5rem;        
+               align-items: center;
+               font-weight: bold;
+            li{
+                color: white;
+            }
+        }
+    }
+}
+.nav a:hover{
+    color: rgb(237, 246, 231);
+   }
+@keyframes slider{
+    0%{
+        background-image:url(img_46_1720334973365.jpg);
+        background-size: 100%;
+       
+    }
+    25%{
+        background-image: url(Screenshot_20240709-194337_Facebook.jpg);
+        background-size: 100%;
+       
+     
+    }
+    50%{
+        background-image: url(img_2_1720491682020.jpg);
+        background-size: 100%;
+       
+      
+    }
+    75%{
+        background-image:url(IMG-20250516-WA0015.jpg);
+        background-size: 100%;
+}
+100%{
+    background-image:url(Screenshot_20230904-060158_WhatsApp_064738_edited.jpg) ;
+    background-size: 100%;
+}
+
+} 
+      
+    
+
+.mainsection{
+    font-size: 40px;
+    box-sizing: border-box;
+     background-color: wheat;
+     margin-top: 40%;
+     color: black;
+   transform: rotateX('angle');
+
+}
+.text{
+    font-size: larger;
+    background-color: brown;
+    animation: fiter 10s linear  infinite;
+    padding: 1%;
+      
+}
+@keyframes filter {
+      
+    0%{
+       filter: blur(25%);
+    }
+    25%{
+       filter: brightness(50%);
+     
+    }
+    50%{
+       filter: contrast(75%);
+    }
+    75%{
+        filter: grayscale(150%);
+       
+      
+    }
+
+}
+.about1{
+    background-color: green;
+}
+.me{
+    font-size: 30px;
+    color: white;
+background-color: black;
+animation: pic 30s linear infinite;
+}
+@keyframes pic{
+    0%{
+        filter: blur(25%);
+     }
+     25%{
+        filter: brightness(50%);
+      
+     }
+     50%{
+        filter: contrast(75%);
+     }
+     75%{
+         filter: grayscale(150%);
+        
+       
+     }
+}
+.Badakhshan{
+    font-size: 40px;
+    
+    .nav a:hover{
+        color: rgb(237, 246, 231);
+       }
+    
+    background-color: aquamarine;
+}
+#Badakhshan{
+    background-color: wheat;
+    
+background-repeat: no-repeat;
+background-size: 100% ;
+background-position:center;
+background-color: wheat;
+margin: 0%;
+margin-bottom: 10px;
+animation: fiter 10s linear  infinite;
+@keyframes filter {
+      
+    0%{
+       filter: blur(25%);
+    }
+    25%{
+       filter: brightness(50%);
+     
+    }
+    50%{
+       filter: contrast(75%);
+    }
+    75%{
+        filter: grayscale(150%);
+       
+      
+    }
+
+   
+   #Badakhshan1{
+    font-size: 150px;
+    color: blue;
+    text-align: left;
+
+   }
+   .images{
+    
+   
+     
+    margin-top: 5px;
+    box-sizing: border-box;
+    padding: 5%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+   }
+}
+#continer{
+    background-color: aqua;
+background-image: url(img_25_1720412013094.jpg);
+}
+.mainsection{
+    background-image: url(img_25_1720412013094.jpg);
+}
+.Kabul{
+   
+   
+   header{
+    background-color: aqua;
+    
+    } 
+        
+      
+    }
+    
+    }
+    
+   
+#kabuli{
+    background-image: url(img_25_1720412013094.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+margin-top: 0%;
+    background-size: contain;
+    .mainsection{
+
+        color: rgb(86, 8, 189);
+        background-color: rgb(164, 222, 203);
+        padding: 2%;
+      
+    }
+   #kabul{
+    color: rgb(7, 115, 115);
+    font-size: 30px;
+    margin-top: 0%;
+   }
+       
+      .p1{
+            font-size: 50px;
+            color: rgb(115, 20, 20);
+            background-color: rgb(19, 213, 19);
+           
+        }
+        .p2{
+            background-color: rgb(211, 46, 46);
+            color: white;
+    }
+       
+    .i{
+        animation: kabul 20s linear  infinite;
+olor: white;
+}
+.
+}
+.images{
+    background-color: rgb(117, 73, 16);
+    padding: 3%;
+    
+    
+}
+Afghani culture{
+    .body{
+        background-color: antiquewhite;
+        background-image: url(img_3_1726754515174.jpg);
+        margin: 0%;
+        background-attachment: fixed;
+        
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        animation: slider 10s linear  infinite;
+       
+   
+   }
+
+#culture{
+    background-color: aqua;
+    font-size: 100px;
+    margin-top: 2%;
+}
+.crl{
+
+    background-image: url(img_3_1726754515174.jpg);
+    margin: 0%;
+    background-attachment: fixed;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    animation: slider 10s linear  infinite;
+   
+}
+#Afghanistan{
+    background-color: antiquewhite;
+   
+}
+  .lastfooter{
+    background-color: blue;
+  }
